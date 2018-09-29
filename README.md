@@ -1,3 +1,3 @@
 # hello-world
 
-#Testing commit feature on git!
+Testing commit feature on git!
